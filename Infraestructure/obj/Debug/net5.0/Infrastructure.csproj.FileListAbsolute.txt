@@ -1,5 +1,0 @@
-C:\Users\Anheru\source\repos\Api\Infraestructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
-C:\Users\Anheru\source\repos\Api\Infraestructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Anheru\source\repos\Api\Infraestructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
-C:\Users\Anheru\source\repos\Api\Infraestructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
-C:\Users\Anheru\source\repos\Api\Infraestructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache

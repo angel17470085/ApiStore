@@ -13,7 +13,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Infraestructure.Data;
+using Core.Interfaces;
+using Infrastructure.Data;
+
 namespace Api
 {
     public class Startup
@@ -41,6 +43,9 @@ namespace Api
 
             services.AddDbContext<StoreContext>(options =>
                     options.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IProductRepository, ProductRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

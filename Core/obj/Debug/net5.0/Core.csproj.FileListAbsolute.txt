@@ -1,0 +1,11 @@
+C:\Users\Anheru\source\repos\Api\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Anheru\source\repos\Api\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Anheru\source\repos\Api\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\Anheru\source\repos\Api\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\Anheru\source\repos\Api\Core\obj\Debug\net5.0\Core.pdb

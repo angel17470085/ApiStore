@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Infraestructure.Data;
+using Infrastructure.Data;
 using Core.Entities;
+
 
 namespace Api.Controllers
 {
