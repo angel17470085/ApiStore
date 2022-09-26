@@ -5,18 +5,46 @@ using System.Text;
 using System.Threading.Tasks;
 using Core.Entities;
 using Core.Interfaces;
+using Microsoft.EntityFrameworkCore;
 namespace Infrastructure.Data
 {
     public class ProductRepository : IProductRepository
     {
-        public Task<Product> GetProductByIdAsync(int id)
+        private readonly StoreContext _context;
+
+        public ProductRepository( StoreContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task<IReadOnlyList<Product>> GetProductsAsync()
+     
+
+        public async Task<Product> GetProductByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var product = await _context.Products
+                .Include(p=>p.ProductType)
+                .Include(p=>p.ProductBrand)
+                .FirstOrDefaultAsync(p=> p.Id == id);
+          
+            return product;
+        }
+
+        public async Task<IReadOnlyList<Product>> GetProductsAsync()
+        {
+
+            return await _context.Products
+                .Include(p=>p.ProductBrand)
+                .Include(p=>p.ProductType)
+                .ToListAsync();
+        }
+
+        public async Task<IReadOnlyList<ProductType>> GetProductTypesAsync()
+        {
+            return await _context.ProductTypes.ToListAsync();
+        }
+        public async Task<IReadOnlyList<ProductBrand>> GetProductBrandAsync()
+        {
+            return await _context.ProductBrands.ToListAsync();
         }
     }
 }

@@ -1,10 +1,3 @@
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\appsettings.json
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\Api.exe
@@ -128,6 +121,13 @@ C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\Core.dll
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\Anheru\source\repos\Api\Api\bin\Debug\net5.0\Core.pdb
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
 C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
 C:\Users\Anheru\source\repos\Api\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
